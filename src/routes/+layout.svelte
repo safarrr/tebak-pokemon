@@ -12,7 +12,7 @@
 
 	<footer>
 		<p>
-			Dibuat dengan ❤️ oleh <a href="github.com/safarrr" target="_blank" rel="noopener noreferrer"
+			Dibuat dengan ❤️ oleh <a href="https://github.com/safarrr" target="_blank" rel="noopener noreferrer"
 				>safar</a
 			>
 		</p>

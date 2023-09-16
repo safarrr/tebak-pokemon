@@ -19,8 +19,7 @@
 	const getData = async () => {
 		const randomInt = Math.floor(Math.random() * (1000 - 1) + 1);
 		const res = await fetch('https://pokeapi.co/api/v2/pokemon/' + randomInt);
-		const data = await res.json();
-		console.log('file: +page.svelte:7 ~ getData ~ data:', data);
+		const data = await res.json(); 
 		pokemon = data;
 		return data;
 	};
